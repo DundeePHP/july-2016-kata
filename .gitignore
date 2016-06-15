@@ -12,3 +12,10 @@
 
 ### Vagrant ###
 /.vagrant
+
+
+### PHP ###
+vendor/
+
+### IntelliJ ###
+.idea/

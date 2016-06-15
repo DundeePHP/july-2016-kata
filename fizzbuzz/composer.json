@@ -1,0 +1,18 @@
+{
+    "name": "dundeephp/fizzbuzz",
+    "description": "A skeleton for doing the FizzBuzz kata, by Dundee PHP",
+    "authors": [
+        {
+            "name": "Dundee PHP",
+            "email": "dundeephp@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"DundeePHP\\FizzBuzz\\": "src/"}
+    },
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.4",
+        "phake/phake": "^2.3"
+    }
+}
